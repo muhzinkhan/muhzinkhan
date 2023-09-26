@@ -11,14 +11,14 @@
 
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=muhzin-khan&theme=dracula"/></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=muhzinkhan&theme=dracula"/></a>
 </p>
 
 
 <h2 align="center">Languages and Tools:</h2>
 
 <p align="center"> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://images2.imgbox.com/40/dd/o5rLc3u3_o.png" alt="flask" title="Flask" width="40" height="40"/> 
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask&theme=light" alt="flask" title="Flask" width="40" height="40"/> 
   </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40"/> </a>
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL" width="40" height="40"/> </a>
@@ -30,11 +30,9 @@
                 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" title="Seaborn" width="40" height="40"/> <a>
                  <!-- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>        -->
                   <a href="https://plotly.com/python/plotly-express/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" alt="Plotly" title="Plotly" width="40" height="40"/> </a>       
-                    <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" width="40" height="40"/> <a>       
+                    <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" width="40" height="40"/> <a>       
                       <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40"> </a>       
                         <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" title="Selenium" height="40" height="40"> </a>       
                           <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer"> <img src="https://thumbs2.imgbox.com/5a/7b/IXkmdDFG_t.png" alt="Beautiful Soup" title="Beautiful Soup" height="40"> </a>       
                            
 </p>
-
-
