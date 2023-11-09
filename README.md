@@ -6,14 +6,11 @@
 
 - 📫 How to reach me **muhzin029@gmail.com**
 
-
 <h1 align="center">GitHub Stats</h1>
-
 
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=muhzinkhan&theme=dracula"/></a>
 </p>
-
 
 <h2 align="center">Languages and Tools:</h2>
 
@@ -32,7 +29,7 @@
                   <a href="https://plotly.com/python/plotly-express/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" alt="Plotly" title="Plotly" width="40" height="40"/> </a>       
                     <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" width="40" height="40"/> <a>       
                       <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40"> </a>       
-                        <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" title="Selenium" height="40" height="40"> </a>       
-                          <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer"> <img src="https://thumbs2.imgbox.com/5a/7b/IXkmdDFG_t.png" alt="Beautiful Soup" title="Beautiful Soup" height="40"> </a>       
+                        <a href="https://www.selenium.dev/documentation/webdriver/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" title="Selenium" height="40" height="40"> </a>       
+                          <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer"> <img src="https://images2.imgbox.com/e7/72/TBMaNu2j_o.png" alt="Beautiful Soup" title="Beautiful Soup" height="40"> </a>       
                            
 </p>
