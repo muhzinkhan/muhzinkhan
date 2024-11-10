@@ -1,35 +1,81 @@
-<h1 align="center">Hi 👋, I'm Muhsin Khan</h1>
+<h1 align="center">Hi <img height=27 src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm Muhsin Khan</h1>
 
-- 🌱 I’m currently learning **Data Science**
 
-- 🚀 I’m into **Web Development too**
+- 💫 Current Pursuit: Delving into the depths of Data Science & Machine Learning
 
-- 📫 How to reach me **muhzin029@gmail.com**
+- 🌱 Learning Focus: Enhancing skills in ML, Deep Learning, and Data Analysis
 
-<h1 align="center">GitHub Stats</h1>
+- 📫 How to reach me: **muhzin029@gmail.com**
+
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=muhzinkhan&theme=dracula"/></a>
 </p>
 
-<h2 align="center">Languages and Tools:</h2>
 
-<p align="center"> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask&theme=light" alt="flask" title="Flask" width="40" height="40"/> 
+<h2 align="center">💻 Languages and Tools:</h2>
+<!-- ## 💻 Languages and Tools Centered -->
+
+<p align="center">
+  <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
   </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40"/> </a>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL" width="40" height="40"/> </a>
-        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4vhwI8j1V4oFC-uo4qrd6RIfkJwsbyyGopEGh9BuNAEbR3in4" alt="pandas" title="Pandas" width="40" height="40"/> </a>
-          <!-- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" title="PostgreSQL" width="40" height="40"/> </a> -->
-            <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" width="40" height="40"/> </a>
-             <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" title="Python" width="40" height="40"/> </a>
-               <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" title="Scikit Learn" width="40" height="40"/> </a>
-                <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" title="Seaborn" width="40" height="40"/> <a>
-                 <!-- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>        -->
-                  <a href="https://plotly.com/python/plotly-express/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" alt="Plotly" title="Plotly" width="40" height="40"/> </a>       
-                    <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" width="40" height="40"/> <a>       
-                      <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40"> </a>       
-                        <a href="https://www.selenium.dev/documentation/webdriver/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" title="Selenium" height="40" height="40"> </a>       
-                          <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer"> <img src="https://images2.imgbox.com/e7/72/TBMaNu2j_o.png" alt="Beautiful Soup" title="Beautiful Soup" height="40"> </a>       
-                           
+  <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+  <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  </a>
+  <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </a>
+  <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  </a>
+  <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  </a>
+  <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
+  </a>
+  <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  </a>
+  <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  </a>
+  <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  </a>
+  <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  </a>
+  <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  </a>
+  <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
+  </a>
+  <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  </a>
+  <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
+  </a>
 </p>
+
+
+<details close>
+  <summary><h2 align="center">Extra Pinned Repos</h2></summary>
+
+  <p>
+    <a href="https://github.com/DenverCoder1/table2ascii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhzinkhan&repo=Sales-Dashboard-with-Analytics&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true&show_description=true" alt="Sales-Dashboard-with-Analytics"></a>
+    <a href="https://github.com/DenverCoder1/table2ascii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhzinkhan&repo=Linear-Regression-From-Scratch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true&show_description=true" alt="Sales-Dashboard-with-Analytics"></a>
+    <a href="https://github.com/DenverCoder1/table2ascii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhzinkhan&repo=Analysing-Space-Race&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true&show_description=true" alt="Sales-Dashboard-with-Analytics"></a>
+  </p>
+</details>
