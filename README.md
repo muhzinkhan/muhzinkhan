@@ -38,6 +38,9 @@
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   </a>
   <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  </a>
+  <a href="https://img.shields.io">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   </a>
   <a href="https://img.shields.io">
@@ -74,8 +77,8 @@
   <summary><h2 align="center">Extra Pinned Repos</h2></summary>
 
   <p>
-    <a href="https://github.com/DenverCoder1/table2ascii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhzinkhan&repo=Sales-Dashboard-with-Analytics&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true&show_description=true" alt="Sales-Dashboard-with-Analytics"></a>
-    <a href="https://github.com/DenverCoder1/table2ascii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhzinkhan&repo=Linear-Regression-From-Scratch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true&show_description=true" alt="Sales-Dashboard-with-Analytics"></a>
-    <a href="https://github.com/DenverCoder1/table2ascii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhzinkhan&repo=Analysing-Space-Race&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true&show_description=true" alt="Sales-Dashboard-with-Analytics"></a>
+    <a href="https://github.com/muhzinkhan/Sales-Dashboard-with-Analytics"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhzinkhan&repo=Sales-Dashboard-with-Analytics&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true&show_description=true" alt="Sales-Dashboard-with-Analytics"></a>
+    <a href="https://github.com/muhzinkhan/Linear-Regression-From-Scratch"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhzinkhan&repo=Linear-Regression-From-Scratch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true&show_description=true" alt="Linear-Regression-From-Scratch"></a>
+    <a href="https://github.com/muhzinkhan/Analysing-Space-Race"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhzinkhan&repo=Analysing-Space-Race&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true&show_description=true" alt="Analysing-Space-Race"></a>
   </p>
 </details>
