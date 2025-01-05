@@ -56,16 +56,13 @@
     <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
   </a>
   <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+  </a>
+  <a href="https://img.shields.io">
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </a>
   <a href="https://img.shields.io">
-    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  </a>
-  <a href="https://img.shields.io">
     <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  </a>
-  <a href="https://img.shields.io">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
   </a>
   <a href="https://img.shields.io">
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
@@ -76,18 +73,35 @@
   <a href="https://img.shields.io">
     <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/>
   </a>
+  <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  </a>
+  <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  </a>
 </p>
+
 
 
 <details close>
   <summary><h2 align="center">Click for Extra Pinned Repos</h2></summary>
 
   <p>
-    <a href="https://github.com/muhzinkhan/Movie-Budget-Revenue-Analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhzinkhan&repo=Movie-Budget-Revenue-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true&show_description=true" alt="Movie-Budget-Revenue-Analysis"></a> 
+    <a href="https://github.com/muhzinkhan/Titanic-Dataset-Analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhzinkhan&repo=Titanic-Dataset-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true&show_description=true" alt="Titanic-Dataset-Analysis"></a> 
     <a href="https://github.com/muhzinkhan/Play-Store-App-Analytics"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhzinkhan&repo=Play-Store-App-Analytics&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true&show_description=true" alt="Play-Store-App-Analytics"></a>
     <a href="https://github.com/muhzinkhan/b2b-suppliers"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhzinkhan&repo=b2b-suppliers&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true&show_description=true" alt="b2b-suppliers"></a>
+    <a href="https://github.com/muhzinkhan/Movie-Budget-Revenue-Analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhzinkhan&repo=Movie-Budget-Revenue-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true&show_description=true" alt="Movie-Budget-Revenue-Analysis"></a>
     <a href="https://github.com/muhzinkhan/amazon-price-tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhzinkhan&repo=amazon-price-tracker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true&show_description=true" alt="amazon-price-tracker"></a>
     <a href="https://github.com/muhzinkhan/stock-price-news-alert"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhzinkhan&repo=stock-price-news-alert&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true&show_description=true" alt="stock-price-news-alert"></a>
-    <a href="https://github.com/muhzinkhan/rain-alert"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhzinkhan&repo=rain-alert&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true&show_description=true" alt="rain-alert"></a>
   </p>
 </details>
+
+
+<!-- <h2>Profile Visit Counter</h2> -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=muhzinkhan&color=green&style=pixel"/> 
+</p>
+
+<a href="https://visitcount.itsvg.in" visibility: hidden>
+  <img src="https://visitcount.itsvg.in/api?id=muhzinkhan&icon=0&color=0"/>
+</a>
