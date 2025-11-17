@@ -83,7 +83,7 @@
 
 
 
-<details close>
+<!-- <details close>
   <summary><h2 align="center">Click for Extra Pinned Repos</h2></summary>
 
   <p>
@@ -94,7 +94,7 @@
     <a href="https://github.com/muhzinkhan/amazon-price-tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhzinkhan&repo=amazon-price-tracker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true&show_description=true" alt="amazon-price-tracker"></a>
     <a href="https://github.com/muhzinkhan/stock-price-news-alert"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhzinkhan&repo=stock-price-news-alert&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true&show_description=true" alt="stock-price-news-alert"></a>
   </p>
-</details>
+</details> -->
 
 
 <!-- <h2>Profile Visit Counter</h2> -->
